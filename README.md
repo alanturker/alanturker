@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alanturker
 - 👀 I’m interested in Mobile App Developing
-- 🌱 I’m currently learning SWIFT
+- 🌱 SWIFT and SwiftUI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
