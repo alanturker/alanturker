@@ -1,7 +1,7 @@
 # Hi there, I'm Türker Alan 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=iOS+Developer;Swift+%26+SwiftUI+Expert;If+there+is+a+will%2C+there+is+a+way" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=iOS+Developer;Swift+%26+SwiftUI+Enthusiast;If+there+is+a+will%2C+there+is+a+way" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -21,8 +21,7 @@ Innovative iOS Developer with **4+ years** of experience crafting high-performan
 ### 🔮 TarotBot: AI Tarot & Chat
 *Navigate your fate through the stars and signs*
 
-<https://github.com/user-attachments/assets/7a776608-b567-493b-a0b7-7b717ac86851>
-<img src="assets/screenshots/tarotbot.png" width="250" alt="TarotBot App Screenshot">
+<img src="https://github.com/user-attachments/assets/7a776608-b567-493b-a0b7-7b717ac86851" width="250" alt="TarotBot App Screenshot">
 
 ```
 🤖 AI-powered tarot readings
