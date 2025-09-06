@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=iOS+Developer;Swift+%26+SwiftUI+Enthusiast;If+there+is+a+will%2C+there+is+a+way" alt="Typing SVG" />
 </div>
-
 ## 🚀 About Me
 
 Innovative iOS Developer with **4+ years** of experience crafting high-performance mobile applications using Swift and SwiftUI. I believe that **"If there is a will, there is a way"** - turning creative ideas into reality through code.
@@ -36,7 +35,7 @@ Innovative iOS Developer with **4+ years** of experience crafting high-performan
 *Strengthen bonds through shared experiences*
 
 <!-- Add your Twogether screenshot here -->
-<img src="assets/screenshots/twogether.png" width="250" alt="Twogether App Screenshot">
+<img src="https://github.com/user-attachments/assets/bf53487e-a09c-49df-8a21-195e6c69a6b2" width="250" alt="Twogether App Screenshot">
 
 ```
 📅 Couple's journal & memories
@@ -51,7 +50,7 @@ Innovative iOS Developer with **4+ years** of experience crafting high-performan
 *Make your voice heard through conscious choices*
 
 <!-- Add your Boykotör screenshot here -->
-<img src="assets/screenshots/boykotor.png" width="250" alt="Boykotör App Screenshot">
+<img src="https://github.com/user-attachments/assets/40b248b4-38b6-4008-b22f-c2a327b2d2ea" width="250" alt="Boykotör App Screenshot">
 
 ```
 ⬆️ Upvote/Downvote brands
