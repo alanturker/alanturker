@@ -70,7 +70,7 @@ Innovative iOS Developer with **4+ years** of experience crafting high-performan
 | TarotBot | Twogether | Boykotör |
 |:--------:|:---------:|:--------:|
 | 🔮 AI Tarot | 💕 Couples | 🗳️ Brand Rating |
-| *In Development* | *In Development* | *Live on App Store* |
+| *Cancelled* | *In Development* | *Live on App Store* |
 
 </div>
 
